@@ -1,0 +1,7 @@
+*pycache*
+*.json
+.idea
+.idea/*
+*/.idea
+*.zip
+.history

@@ -1,0 +1,1 @@
+This folder contains snowflake common use pipeline connectors etc.
